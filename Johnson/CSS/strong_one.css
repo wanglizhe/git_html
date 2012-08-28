@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+body{ text-align:center; font-size:13px; font-family:"微软雅黑"; color:#FFFFFF}
+div{ margin:0 auto  }
+div img ul li p{ margin:0; padding:0;}
+img { border:0;}
+.word{ width:760px; height:1850px; background:url(../images/shangyelingxiu.jpg) no-repeat; text-align:center; position:relative;}
+ul li{ list-style:none;}
+.top{ width:760px; position:relative; top:40px;}
+.top ul li{ float:left; margin-left:85px; display:block; width:120px; height:40px;}
+.lf{ position:relative;right:50px;}
+.rg{ position:relative;left:35px;}
+.htr{ position:relative; top:610px; width:760px;}
+.htr p{ text-align:left; margin-left:50px;}
+
+.jieti{ width:760px; position:relative; top:760px;}
+.jieti ul li{ float:left; margin-left:47px;}
+.li2{ position:relative; bottom:50px;}
+.li3{ position:relative; bottom:90px;}
+.li4{ position:relative; bottom:130px;}
+.big_zi{ font-size:23px; font-weight:900;}
+
+.jt_bot{ width:760px; position:relative; top:770px;}
+.jt_bot ul li{ float:left; margin-left:100px;}
+.img { position:absolute; top:80px; left: 300px;} 
+
+.p_zi{ position:relative; top:900px; }
+.big{ font-size:28px; font-weight:700;}
+.p_zi p{ width:600px; margin:0 auto }
+
+
+.word1{  width:760px; height:2600px; background:url(../images/img_01.jpg) no-repeat; text-align:center; position:relative; font-size:16px;}
+.biaoge{ width:760px; text-align:left; margin-left:70px; color:#0a99c7;}
+.bg{ width:760px; height:39px; position:relative;  }
+.bg_1{position:absolute; right:65px; bottom:13px; }
+.dt{ width:238px; height:156px; background:#eff8ff; position:absolute; border-radius:7px; top:48px; left:95px; display:none;  }
+.list{ width:150px; height:39px; line-height:39px; border-bottom:#0a99c7 1px solid; z-index:1; position:absolute;}
+.list1{ width:150px; height:39px; line-height:39px; border-bottom:#0a99c7 1px solid; z-index:1; position:absolute; top:39px;}
+.list2{ width:150px; height:39px; line-height:39px; border-bottom:#0a99c7 1px solid; z-index:1; position:absolute; top:78px;}
+.ckk{ cursor:pointer}
+
+
+
+
